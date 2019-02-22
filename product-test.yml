@@ -12,4 +12,4 @@ spring:
     password: root
   jpa:
     show-sql: true
-env: dev
+env: test
